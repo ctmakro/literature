@@ -9,46 +9,64 @@ When I said I was speaking at a high school, my friends were curious. What will 
 我的朋友们听说我要去高中演讲，都感到很好奇。跟高中生有什么好讲的？于是我问他们：假如回到高中，你最希望别人告诉你什么？结果他们的答案惊人地相似。接下来我会告诉你们，我们最希望当年有人能告诉我们的事情。
 
 I'll start by telling you something you don't have to know in high school: what you want to do with your life. People are always asking you this, so you think you're supposed to have an answer. But adults ask this mainly as a conversation starter. They want to know what sort of person you are, and this question is just to get you talking. They ask it the way you might poke a hermit crab in a tide pool, to see what it does.
-我就先从高中生不需要知道的事情开始：你将来想做什么。身边的人总是问你这个问题，搞得你以为必须知道答案。其实大人问这个问题只是一种开启对话的形式。他们想知道你是哪种人，而这个问题是最好的引子。他们问你这个问题，就如同你在潮池中捅一只寄居蟹，看它怎么反应。
+我先从高中生不需要知道的事情开始。你将来想做什么？身边的人总是问你这个问题，所以你以为必须得有答案。其实大人问这个问题，只是想开个话头；他们想知道你是哪种人，所以把这个问题当作引子。他们问你这个问题，就如同你用树枝去捅一只蜗牛，来观察它的反应。
 
 If I were back in high school and someone asked about my plans, I'd say that my first priority was to learn what the options were. You don't need to be in a rush to choose your life's work. What you need to do is discover what you like. You have to work on stuff you like if you want to be good at what you do.
-如果我回到高中，有人问我对未来的计划，我会说我的第一选择，就是搞清楚有哪些选择。你并不需要一早就决定好
+如果回到高中，有人问我对未来的计划，我会说我的第一选择就是搞清楚有哪些选择。你没必要那么早就决定这辈子要干什么，而应该去发现你到底喜欢什么。你必须喜欢做一件事，才有可能成为这件事的专家。
 
 It might seem that nothing would be easier than deciding what you like, but it turns out to be hard, partly because it's hard to get an accurate picture of most jobs. Being a doctor is not the way it's portrayed on TV. Fortunately you can also watch real doctors, by volunteering in hospitals. [1]
+确定自己喜欢什么，听起来再简单不过的一件事，实际上却很难，一部分是因为我们很难获得对大部分职业的准确印象。真正的医生跟电视剧里的医生是两码事。不过还好，想要收看真正的医生，可以去医院当志愿者。
 
 But there are other jobs you can't learn about, because no one is doing them yet. Most of the work I've done in the last ten years didn't exist when I was in high school. The world changes fast, and the rate at which it changes is itself speeding up. In such a world it's not a good idea to have fixed plans.
+不过，还有一类工作我们是没法围观学习的，因为暂时还没有人干过。过去十年我完成的绝大多数工作，在我上高中的时候都是不存在的。世界变化很快，而变化的速度本身也在加快。在这样一个世界里，把自己的计划定的太死是不好的。
 
 And yet every May, speakers all over the country fire up the Standard Graduation Speech, the theme of which is: don't give up on your dreams. I know what they mean, but this is a bad way to put it, because it implies you're supposed to be bound by some plan you made early on. The computer world has a name for this: premature optimization. And it is synonymous with disaster. These speakers would do better to say simply, don't give up.
+然而每到五月份，全国各地的学校都会表演《标准毕业演讲》，主题是：不要放弃你的梦想。我知道他们想说什么，但这种表达有问题，因为它暗示着你要跟着你之前制定的计划去走。计算机领域管这种做法叫做“过早优化”，它的另一个名字叫悲剧。他们如果只提“不要放弃”，效果还更好一点。
 
 What they really mean is, don't get demoralized. Don't think that you can't do what other people can. And I agree you shouldn't underestimate your potential. People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius. In fact I suspect if you had the sixteen year old Shakespeare or Einstein in school with you, they'd seem impressive, but not totally unlike your other friends.
+他们真正想说的是：不要丧失斗志。别人能做到的你也能做到。我同样也认为，你们不应该低估自己的潜力。实现伟大成就的人看上去总像是异类。而且绝大多数传记都在放大这种幻觉，一方面是因为传记作者一如既往的崇拜口吻，一方面是因为在故事结局已知的情况下，他们没法不去美化剧情，直到主人公的人生看上去就像天赐的才华加命运的必然。而实际上我怀疑，如果你把16岁的莎士比亚或者爱因斯坦放到这间学校，他们也许会让你印象深刻，但不会跟你的其他朋友有太大区别。
 
 Which is an uncomfortable thought. If they were just like us, then they had to work very hard to do what they did. And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.
+这话听着就不舒服了。如果他们跟我们差别不大，那他们就必须要付出超人的努力，才能取得他们的成就。这就是为什么我们愿意相信“天才”的存在——它为我们提供了懒惰的借口。假如这些人的伟大成就是来自于某种神奇的“爱因斯坦基因”，或者“莎士比亚基因”，那我们一般人做不到，也就不是我们的错。
 
 I'm not saying there's no such thing as genius. But if you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right.
+我不是说这个世界上不存在“天才”。我是说，如果你打算在两种理论中作出选择，而其中一种可以给你偷懒的借口，那么另一种就多半是正确的。
 
 So far we've cut the Standard Graduation Speech down from "don't give up on your dreams" to "what someone else can do, you can do." But it needs to be cut still further. There is some variation in natural ability. Most people overestimate its role, but it does exist. If I were talking to a guy four feet tall whose ambition was to play in the NBA, I'd feel pretty stupid saying, you can do anything if you really try. [2]
+截至目前，我们已经把《标准毕业演说》从“不要放弃你的梦想”削减成了“别人能做你也能做”。但它还得再削减。每个人的天赋总是有一点差别的，虽然大部分人高估了它的影响，但它确实是存在的。假如有个一米五的人跟我说他的梦想是打NBA，那我肯定不会傻傻地跟他说，别人能做你也能做。
 
 We need to cut the Standard Graduation Speech down to, "what someone else with your abilities can do, you can do; and don't underestimate your abilities." But as so often happens, the closer you get to the truth, the messier your sentence gets. We've taken a nice, neat (but wrong) slogan, and churned it up like a mud puddle. It doesn't make a very good speech anymore. But worse still, it doesn't tell you what to do anymore. Someone with your abilities? What are your abilities?
+因此，我们得把《标准毕业演说》削减为：“跟你能力相同的人能做到的，你也能做到；以及不要低估你自己的能力。”然而，正如经常见到的一样：越靠近真相，句子就越拗口。我们把一条简洁、响亮（但错误）的口号，搅成了一团稀泥，再也没法放到演讲里面去了。更糟糕的是，它再也没法告诉你究竟应该干什么了。跟你能力相同的人？“你的能力”是哪些能力？
 
 Upwind
+逆风
 
 I think the solution is to work in the other direction. Instead of working back from a goal, work forward from promising situations. This is what most successful people actually do anyway.
+我认为解决方案得从另一边出发。与其从目标出发向后推导，不如从当下的优势向前进发。这其实也是大部分成功人士的实际做法。
 
 In the graduation-speech approach, you decide where you want to be in twenty years, and then ask: what should I do now to get there? I propose instead that you don't commit to anything in the future, but just look at the options available now, and choose those that will give you the most promising range of options afterward.
+按照《标准毕业演说》的路线，你先决定你希望20年后到达哪里，然后问自己：我要怎样才能去到那儿？相反，我建议你不要纠结未来的任何目标，只看眼下的选项，并且选择那些能够在未来为你带来最优选择的。
 
 It's not so important what you work on, so long as you're not wasting your time. Work on things that interest you and increase your options, and worry later about which you'll take.
+只要你们不是在浪费时间，具体干什么并不是那么重要。多干那些令你感兴趣并且增加你的选择机会的事情，具体的选择将来再考虑。
 
 Suppose you're a college freshman deciding whether to major in math or economics. Well, math will give you more options: you can go into almost any field from math. If you major in math it will be easy to get into grad school in economics, but if you major in economics it will be hard to get into grad school in math.
+好比你是一个大一新生，正在决定是主修数学还是经济学。那么数学会给你更多机会：你可以从数学转向几乎任何专业。如果你主修数学，考经济研究生会很轻松，但如果你主修经济学，要考数学研究生就困难了。
 
 Flying a glider is a good metaphor here. Because a glider doesn't have an engine, you can't fly into the wind without losing a lot of altitude. If you let yourself get far downwind of good places to land, your options narrow uncomfortably. As a rule you want to stay upwind. So I propose that as a replacement for "don't give up on your dreams." Stay upwind.
+这里我举一个滑翔机的例子。因为没有引擎，滑翔机在逆风飞行的过程中会损失很多高度。而如果你朝适合着陆的地点的下风向飞得太远，你拥有的选择机会就会不爽地少起来。原则上你最好保持逆风。我觉得这是“不要放弃你的梦想”的替代——保持逆风。
 
 How do you do that, though? Even if math is upwind of economics, how are you supposed to know that as a high school student?
+但，具体要怎么实施呢？即便数学是在经济学的上风向，但作为一个高中生，你怎么就会知道呢？
 
 Well, you don't, and that's what you need to find out. Look for smart people and hard problems. Smart people tend to clump together, and if you can find such a clump, it's probably worthwhile to join it. But it's not straightforward to find these, because there is a lot of faking going on.
+你确实不知道，而这就是你要搞清楚的。寻找聪明人和困难的问题。聪明人往往抱团扎堆，如果你能找到这样的堆，加入多半是值得的。但找的过程不会一帆风顺，因为凡事都有猫腻。
 
 To a newly arrived undergraduate, all university departments look much the same. The professors all seem forbiddingly intellectual and publish papers unintelligible to outsiders. But while in some fields the papers are unintelligible because they're full of hard ideas, in others they're deliberately written in an obscure way to seem as if they're saying something important. This may seem a scandalous proposition, but it has been experimentally verified, in the famous Social Text affair. Suspecting that the papers published by literary theorists were often just intellectual-sounding nonsense, a physicist deliberately wrote a paper full of intellectual-sounding nonsense, and submitted it to a literary theory journal, which published it.
+对于一个大一新生来说，大学的所有学院看上去都差不多。教授们看上去都学富五车，发表着外人无法读懂的论文。其中一部分论文无法读懂是因为它们包含了复杂的思想，另一部分则是故意用一种晦涩难懂的方式书写，使之看上去煞有其事。这个说法听起来好像很不光彩，但它已被著名的“社科门”证实。因为怀疑文学理论家们发表的论文都只不过是听起来煞有其事的废话，一个物理学家故意写了一篇充满煞有其事的废话的论文，并投到一份文学理论期刊，结果发表成功了。
 
 The best protection is always to be working on hard problems. Writing novels is hard. Reading novels isn't. Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, then it isn't hard enough. There has to be suspense.
+最佳应对方案，就是坚持钻研困难的问题。写小说是很难的。读小说则不然。难表现在担忧：如果你不担心你的某个设计会失败，或者无法理解所学的内容，那就说明它不够难。一定要有悬念。
 
 Well, this seems a grim view of the world, you may think. What I'm telling you is that you should worry? Yes, but it's not as bad as it sounds. It's exhilarating to overcome worries. You don't see faces much happier than people winning gold medals. And you know why they're so happy? Relief.
 
