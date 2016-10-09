@@ -1,5 +1,5 @@
 What you'll wish you'd known
-你将希望你一早知道的事
+你将希望你一早知道的事儿
 
 January 2005
 
@@ -9,28 +9,28 @@ When I said I was speaking at a high school, my friends were curious. What will 
 我的朋友们听说我要去高中演讲，都感到很好奇。跟高中生有什么好讲的？于是我问他们：假如回到高中，你最希望别人告诉你什么？结果他们的答案惊人地相似。接下来我会告诉你们，我们最希望当年有人能告诉我们的事情。
 
 I'll start by telling you something you don't have to know in high school: what you want to do with your life. People are always asking you this, so you think you're supposed to have an answer. But adults ask this mainly as a conversation starter. They want to know what sort of person you are, and this question is just to get you talking. They ask it the way you might poke a hermit crab in a tide pool, to see what it does.
-我先从高中生不需要知道的事情开始。你将来想做什么？身边的人总是问你这个问题，所以你以为必须得有答案。其实大人问这个问题，只是想开个话头；他们想知道你是哪种人，所以把这个问题当作引子。他们问你这个问题，就如同你用树枝去捅一只蜗牛，来观察它的反应。
+我先从高中生不需要知道的事情开始。你将来想做什么？身边的人总是问你这个问题，于是你就以为你必须得回答。其实大人问这个问题，只是想开个话茬；他们想知道你是哪种人，所以把这个问题当作话题。这种提问的方法，就如同你在草丛里敲一只蜗牛，再观察它的反应。
 
 If I were back in high school and someone asked about my plans, I'd say that my first priority was to learn what the options were. You don't need to be in a rush to choose your life's work. What you need to do is discover what you like. You have to work on stuff you like if you want to be good at what you do.
-如果回到高中，有人问我对未来的计划，我会说我的第一选择就是搞清楚有哪些选择。你没必要那么早就决定这辈子要干什么，而应该去发现你到底喜欢什么。你必须喜欢做一件事，才有可能成为这件事的专家。
+如果回到高中，有人问我对未来的计划，我会说我的第一选择，就是搞清楚有哪些选择。你没必要这么早就决定这辈子要干什么。你倒是应该搞清楚你喜欢什么。你必须喜欢做一件事，才有可能成为做这件事的专家。
 
 It might seem that nothing would be easier than deciding what you like, but it turns out to be hard, partly because it's hard to get an accurate picture of most jobs. Being a doctor is not the way it's portrayed on TV. Fortunately you can also watch real doctors, by volunteering in hospitals. [1]
-确定自己喜欢什么，听起来再简单不过的一件事，实际上却很难，一部分是因为我们很难获得对大部分职业的准确印象。真正的医生跟电视剧里的医生是两码事。不过还好，想要收看真正的医生，可以去医院当志愿者。
+确定自己喜欢什么，听起来是一件再简单不过的事，实际上却很困难，一部分原因是对大部分职业的准确印象很难获取。当一个真正的医生，跟电视剧里演的是两码事。不过还好，如果你想要收看真正的医生，可以去医院当志愿者。
 
 But there are other jobs you can't learn about, because no one is doing them yet. Most of the work I've done in the last ten years didn't exist when I was in high school. The world changes fast, and the rate at which it changes is itself speeding up. In such a world it's not a good idea to have fixed plans.
-不过，还有一类工作我们是没法围观学习的，因为暂时还没有人干过。过去十年我完成的绝大多数工作，在我上高中的时候都是不存在的。世界变化很快，而变化的速度本身也在加快。在这样一个世界里，把自己的计划定的太死是不好的。
+不过，有很多工作我们是没法观看学习的，因为目前还没有人干过。过去十年里我所做的绝大多数工作，在我上高中的时候都是不存在的。世界变得很快，而变化的速度本身也在加快。在这样一个世界里，把自己的计划定的太死是不好的。
 
 And yet every May, speakers all over the country fire up the Standard Graduation Speech, the theme of which is: don't give up on your dreams. I know what they mean, but this is a bad way to put it, because it implies you're supposed to be bound by some plan you made early on. The computer world has a name for this: premature optimization. And it is synonymous with disaster. These speakers would do better to say simply, don't give up.
-然而每到五月份，全国各地的学校都会表演《标准毕业演讲》，主题是：不要放弃你的梦想。我知道他们想说什么，但这种表达有问题，因为它暗示着你要跟着你之前制定的计划去走。计算机领域管这种做法叫做“过早优化”，它的另一个名字叫悲剧。他们如果只提“不要放弃”，效果还更好一点。
+然而每到五月份，全国各地的学校都会上演《标准毕业演讲》，主题是：不要放弃你的梦想。我知道他们想说什么，但这种表达有问题，因为它暗示着你要跟着你之前定好的计划去走。在计算机领域，这种做法叫做“过早优化”，它的另一个名字叫悲剧。他们如果只说“不要放弃”，其实还好一点。
 
 What they really mean is, don't get demoralized. Don't think that you can't do what other people can. And I agree you shouldn't underestimate your potential. People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius. In fact I suspect if you had the sixteen year old Shakespeare or Einstein in school with you, they'd seem impressive, but not totally unlike your other friends.
-他们真正想说的是：不要丧失斗志。别人能做到的你也能做到。我同样也认为，你们不应该低估自己的潜力。实现伟大成就的人看上去总像是异类。而且绝大多数传记都在放大这种幻觉，一方面是因为传记作者一如既往的崇拜口吻，一方面是因为在故事结局已知的情况下，他们没法不去美化剧情，直到主人公的人生看上去就像天赐的才华加命运的必然。而实际上我怀疑，如果你把16岁的莎士比亚或者爱因斯坦放到这间学校，他们也许会让你印象深刻，但不会跟你的其他朋友有太大区别。
+他们真正想说的是：不要丧失斗志。别人能做到的，你不要觉得做不到。我确实也认为你们不应该低估自己的潜力。那些成就非凡的人看上去总是与众不同。而绝大多数传记都在放大这种幻觉，一方面是因为传记作者千篇一律的崇拜口吻，一方面是因为在故事结局已知的情况下，他们必须得美化剧情，直到主人公的人生看上去就像天赐的才华加命运的必然。而实际上我怀疑，如果你把16岁的莎士比亚或者爱因斯坦放到这间学校，他们或许会让你印象深刻，但不会跟你的其他朋友有太大区别。
 
 Which is an uncomfortable thought. If they were just like us, then they had to work very hard to do what they did. And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.
-这话听着就不舒服了。如果他们跟我们差别不大，那他们就必须要付出超人的努力，才能取得他们的成就。这就是为什么我们愿意相信“天才”的存在——它为我们提供了懒惰的借口。假如这些人的伟大成就是来自于某种神奇的“爱因斯坦基因”，或者“莎士比亚基因”，那我们一般人做不到，也就不是我们的错。
+可是这话听着就不舒服了。如果他们跟我们相差无几，那他们要取得他们的成就，就必须要付出超人的努力。这就是为什么我们愿意相信“天才”的存在——它为我们提供了懒惰的借口。假如这些人的伟大成就来自于某种神奇的“爱因斯坦基因”，或者“莎士比亚基因”，那也就不能怪我们一般人做不到了。
 
 I'm not saying there's no such thing as genius. But if you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right.
-我不是说这个世界上不存在“天才”。我是说，如果你打算在两种理论中作出选择，而其中一种可以给你偷懒的借口，那么另一种就多半是正确的。
+我不是说这个世界上不存在“天才”。我是说在大多数情况下，如果一件事有两种解释，其中一种可以给你偷懒的借口，那么另一种就是对的。
 
 So far we've cut the Standard Graduation Speech down from "don't give up on your dreams" to "what someone else can do, you can do." But it needs to be cut still further. There is some variation in natural ability. Most people overestimate its role, but it does exist. If I were talking to a guy four feet tall whose ambition was to play in the NBA, I'd feel pretty stupid saying, you can do anything if you really try. [2]
 截至目前，我们已经把《标准毕业演说》从“不要放弃你的梦想”削减成了“别人能做你也能做”。但它还得再削减。每个人的天赋总是有一点差别的，虽然大部分人高估了它的影响，但它确实是存在的。假如有个一米五的人跟我说他的梦想是打NBA，那我肯定不会傻傻地跟他说，别人能做你也能做。
@@ -124,13 +124,16 @@ When I discovered that one of our teachers was herself using Cliff's Notes, it s
 当我发现我们的其中一位老师自己都在用cliff's notes, 我的内心毫无波澜（不出所料）。这样的课就算拿高分又有什么卵用呢？
 
 In retrospect this was stupid. It was like someone getting fouled in a soccer game and saying, hey, you fouled me, that's against the rules, and walking off the field in indignation. Fouls happen. The thing to do when you get fouled is not to lose your cool. Just keep playing.
-事后来看这很愚蠢。这就如同一个人在足球赛场上被人犯规，然后说，嘿，你铲到我了，这是违反规则的，然后愤慨地离场。犯规是难免的。被犯规时该做的事，是保持风范。继续踢下去吧。
+事后来看这很愚蠢。这就如同在足球赛场上被人犯规，然后说，嘿，你铲到我了，这是违反规则的，然后愤慨地离场。犯规是难免的。被犯规时该做的事，是保持风范。继续比赛吧。
 
 By putting you in this situation, society has fouled you. Yes, as you suspect, a lot of the stuff you learn in your classes is crap. And yes, as you suspect, the college admissions process is largely a charade. But like many fouls, this one was unintentional. [7] So just keep playing.
+通过让你陷入这样的状况，社会对你犯规了。是的，正如你怀疑的，你在学校里学的许多东西都是垃圾。没错，正如你所怀疑的，高校招生在很大程度上是装个样子。但正如绝大多数犯规一样，它们都不是故意的。所以继续比赛吧。
 
 Rebellion is almost as stupid as obedience. In either case you let yourself be defined by what they tell you to do. The best plan, I think, is to step onto an orthogonal vector. Don't just do what they tell you, and don't just refuse to. Instead treat school as a day job. As day jobs go, it's pretty sweet. You're done at 3 o'clock, and you can even work on your own stuff while you're there.
+反抗几乎和服从一样愚蠢。不管哪种情况，你都是被他人对你的安排定义的。我认为，最佳方法，是站到一个垂直的矢量上去。不要把他们的安排照单全收，也不要全盘拒绝。相对的，把学校当成你的正职。正如各类正职一样，它挺清闲的。3点钟就下班了，而你甚至可以在上班时间干你自己的事情。
 
 Curiosity
+好奇心
 
 And what's your real job supposed to be? Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word "aptitude" is misleading, because it implies something innate. The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes.
 
