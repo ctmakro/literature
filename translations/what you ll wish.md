@@ -60,51 +60,71 @@ How do you do that, though? Even if math is upwind of economics, how are you sup
 但，具体要怎么实施呢？即便数学是在经济学的上风向，但作为一个高中生，你怎么就会知道呢？
 
 Well, you don't, and that's what you need to find out. Look for smart people and hard problems. Smart people tend to clump together, and if you can find such a clump, it's probably worthwhile to join it. But it's not straightforward to find these, because there is a lot of faking going on.
-你确实不知道，而这就是你要搞清楚的。寻找聪明人和困难的问题。聪明人往往抱团扎堆，如果你能找到这样的堆，加入多半是值得的。但找的过程不会一帆风顺，因为凡事都有猫腻。
+你确实不知道，而这就是你要搞清楚的。去寻找聪明人和困难的问题。聪明人往往抱团扎堆，如果你能找到这样的堆，加入多半是值得的。不过找的过程并不会一帆风顺，因为凡事都掺了猫腻。
 
 To a newly arrived undergraduate, all university departments look much the same. The professors all seem forbiddingly intellectual and publish papers unintelligible to outsiders. But while in some fields the papers are unintelligible because they're full of hard ideas, in others they're deliberately written in an obscure way to seem as if they're saying something important. This may seem a scandalous proposition, but it has been experimentally verified, in the famous Social Text affair. Suspecting that the papers published by literary theorists were often just intellectual-sounding nonsense, a physicist deliberately wrote a paper full of intellectual-sounding nonsense, and submitted it to a literary theory journal, which published it.
-对于一个大一新生来说，大学的所有学院看上去都差不多。教授们看上去都学富五车，发表着外人无法读懂的论文。其中一部分论文无法读懂是因为它们包含了复杂的思想，另一部分则是故意用一种晦涩难懂的方式书写，使之看上去煞有其事。这个说法听起来好像很不光彩，但它已被著名的“社科门”证实。因为怀疑文学理论家们发表的论文都只不过是听起来煞有其事的废话，一个物理学家故意写了一篇充满煞有其事的废话的论文，并投到一份文学理论期刊，结果发表成功了。
+对于一个大一新生来说，大学里所有的学院看上去都差不多。教授们看上去都学富五车，发表着外行读不懂的论文。其中一部分论文读不懂，是因为它们包含了复杂的思想；而另一部分则是故意用晦涩难懂的方法来写，让内容看上去煞有其事。这个说法听起来好像很不光彩，但它已被著名的“社科门”证实。因为怀疑文学理论家们发表的论文都只不过是听起来煞有其事的废话，一个物理学家故意写了一篇充满煞有其事的废话的论文，并投到一份文学理论期刊，结果发表成功了。
 
 The best protection is always to be working on hard problems. Writing novels is hard. Reading novels isn't. Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, then it isn't hard enough. There has to be suspense.
 最佳应对方案，就是坚持钻研困难的问题。写小说是很难的。读小说则不然。难表现在担忧：如果你不担心你的某个设计会失败，或者无法理解所学的内容，那就说明它不够难。一定要有悬念。
 
 Well, this seems a grim view of the world, you may think. What I'm telling you is that you should worry? Yes, but it's not as bad as it sounds. It's exhilarating to overcome worries. You don't see faces much happier than people winning gold medals. And you know why they're so happy? Relief.
+你可能会觉得这种想法很悲观。说了半天，就是让各位保持担忧？是的，但担忧其实不是坏事。克服担忧是一件令人兴奋不已的事情。没有哪种笑容比获得金牌的人更灿烂。他们这么开心是因为？解脱。
 
 I'm not saying this is the only way to be happy. Just that some kinds of worry are not as bad as they sound.
+当然，想开心有很多种方式。我只是说，某些类型的忧虑并没有听起来那么糟糕。
 
 Ambition
+野心
 
 In practice, "stay upwind" reduces to "work on hard problems." And you can start today. I wish I'd grasped that in high school.
+在实践中，“保持逆风”可以化简为“挑战难题”。你现在就可以开始挑战难题。我上高中的时候能理解这一点就好了。
 
 Most people like to be good at what they do. In the so-called real world this need is a powerful force. But high school students rarely benefit from it, because they're given a fake thing to do. When I was in high school, I let myself believe that my job was to be a high school student. And so I let my need to be good at what I did be satisfied by merely doing well in school.
+大多数人希望擅长他们所做的工作。在常说的真实社会中，这是一种重要的推动力。然而高中生很少因此受益，因为他们从事的工作都是虚构的。当年上高中的时候，我让自己相信，自己的职业就是当一名高中生。因此我所谓“擅长自己所做的工作”，只要保持成绩良好就实现了。
 
 If you'd asked me in high school what the difference was between high school kids and adults, I'd have said it was that adults had to earn a living. Wrong. It's that adults take responsibility for themselves. Making a living is only a small part of it. Far more important is to take intellectual responsibility for oneself.
+如果你问当年的我高中生和成年人有什么区别，我可能会说成年人需要养家糊口。不对。答案是成年人需要为自己负责。养家糊口仅仅是其中一部分。远比这重要的是：为自己的智力发展负责。
 
 If I had to go through high school again, I'd treat it like a day job. I don't mean that I'd slack in school. Working at something as a day job doesn't mean doing it badly. It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter. [3] And when I wasn't working at my day job I'd start trying to do real work.
+如果我能再上一次高中，我会把它当成一种正职，或者叫日间工作。我的意思不是说要放松学业——把一件事当成正职不等于马虎应付——而是不要被它定义。正如一个白天端盘子的音乐人不会把自己当成一名服务员，我也不会把自己当成一个高中生。而不干正职的时候，我就会尝试去干真正的工作。
 
 When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time. If you're wondering what you're doing now that you'll regret most later, that's probably it. [4]
+当我问人们对于高中最后悔的事是什么，他们差不多都给出了一样的答案：他们浪费了太多时间。如果你想知道将来你最后悔的事情是什么，这就是答案。
 
 Some people say this is inevitable-- that high school students aren't capable of getting anything done yet. But I don't think this is true. And the proof is that you're bored. You probably weren't bored when you were eight. When you're eight it's called "playing" instead of "hanging out," but it's the same thing. And when I was eight, I was rarely bored. Give me a back yard and a few other kids and I could play all day.
+有的人说这是不可避免的——说高中阶段的学生尚不具备完成任何工作的能力。但我不同意这一点。证据就是你们很无聊。你们八岁的时候应该不会无聊。你们八岁的时候说“出去玩”，而不是“出去逛”，即便是同一件事。我八岁的时候基本不会无聊。给我一个后院加几个小朋友我可以玩一整天。
 
 The reason this got stale in middle school and high school, I now realize, is that I was ready for something else. Childhood was getting old.
+现在我才明白，初中和高中时感到无聊的，说明我已经准备好接受不一样的生活了。童年已经在逐渐远去了。
 
 I'm not saying you shouldn't hang out with your friends-- that you should all become humorless little robots who do nothing but work. Hanging out with friends is like chocolate cake. You enjoy it more if you eat it occasionally than if you eat nothing but chocolate cake for every meal. No matter how much you like chocolate cake, you'll be pretty queasy after the third meal of it. And that's what the malaise one feels in high school is: mental queasiness. [5]
+我不是说你不应该跟朋友出去嫖——全都去做毫无幽默只知道做题的机器人。跟朋友出去嫖就像巧克力蛋糕。偶尔吃吃，比每顿都吃要更甜美。不管你有多喜欢吃巧克力蛋糕，吃到第三餐你都会反胃。而这就是人们在中学里感到不安的原因：精神反胃。
 
 You may be thinking, we have to do more than get good grades. We have to have extracurricular activities. But you know perfectly well how bogus most of these are. Collecting donations for a charity is an admirable thing to do, but it's not hard. It's not getting something done. What I mean by getting something done is learning how to write well, or how to program computers, or what life was really like in preindustrial societies, or how to draw the human face from life. This sort of thing rarely translates into a line item on a college application.
+你也许在想，除了看书考试我们还有好多事得做。我们还得参加课外活动。而你们也清楚地知道绝大多数课外活动有多虚伪。慈善募捐是一件值得尊敬的事情，但它难度为零。它没有收获什么成果。我所指的收获成果，是指学会比如怎样写优美的文章，或者怎样给电脑编程，或者工业革命前的社会长什么样，或者怎样给人画肖像。这类事情很少变成大学申请材料上的加分项。
 
 Corruption
+腐化
 
 It's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience. At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are. The mere existence of prep schools is proof of that.
+将你的生活围绕考大学来设计是危险的，因为那些需要你为了进入大学而努力对其表演的人，并不是一群分辨能力很好的观众。在绝大多数大学里，决定你能否录取的并不是教授，而是招生办的工作人员，而后者脑子远不及前者灵光。
+他们无法分辨你到底有多聪明。各种高考冲刺班的存在就是证据。
 
 Few parents would pay so much for their kids to go to a school that didn't improve their admissions prospects. Prep schools openly say this is one of their aims. But what that means, if you stop to think about it, is that they can hack the admissions process: that they can take the very same kid and make him seem a more appealing candidate than he would if he went to the local public school. [6]
+很少有家长愿意为他们的孩子支付同样多的钱，把他们送去无法增加录取概率的学校。
 
 Right now most of you feel your job in life is to be a promising college applicant. But that means you're designing your life to satisfy a process so mindless that there's a whole industry devoted to subverting it. No wonder you become cynical. The malaise you feel is the same that a producer of reality TV shows or a tobacco industry executive feels. And you don't even get paid a lot.
+此时此刻，你们中的绝大多数人都觉得你们此生的工作就是去做一个优秀的大学申请人。而这意味着，你的生活是为了去满足一个如此无意义的过程而设计的——有一整个专注于将其颠覆的产业。难怪你会变得愤世嫉俗。你感到的这种不安，和那些真人秀节目的制片人、烟草公司的经理感受到的是一样的，但你却得不到高额回报。
 
 So what do you do? What you should not do is rebel. That's what I did, and it was a mistake. I didn't realize exactly what was happening to us, but I smelled a major rat. And so I just gave up. Obviously the world sucked, so why bother?
+那你该怎么应对？你不能有叛逆心理。我当年就有，但那是错的。我那时并没有明确地认识到发生在我们身上的一切，且起了很重的疑心。于是我放弃了。世界本乏味，何须为其烦？
 
 When I discovered that one of our teachers was herself using Cliff's Notes, it seemed par for the course. Surely it meant nothing to get a good grade in such a class.
+当我发现我们的其中一位老师自己都在用cliff's notes, 我的内心毫无波澜（不出所料）。这样的课就算拿高分又有什么卵用呢？
 
 In retrospect this was stupid. It was like someone getting fouled in a soccer game and saying, hey, you fouled me, that's against the rules, and walking off the field in indignation. Fouls happen. The thing to do when you get fouled is not to lose your cool. Just keep playing.
+事后来看这很愚蠢。这就如同一个人在足球赛场上被人犯规，然后说，嘿，你铲到我了，这是违反规则的，然后愤慨地离场。犯规是难免的。被犯规时该做的事，是保持风范。继续踢下去吧。
 
 By putting you in this situation, society has fouled you. Yes, as you suspect, a lot of the stuff you learn in your classes is crap. And yes, as you suspect, the college admissions process is largely a charade. But like many fouls, this one was unintentional. [7] So just keep playing.
 
