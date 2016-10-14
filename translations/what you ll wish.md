@@ -136,6 +136,7 @@ Curiosity
 好奇心
 
 And what's your real job supposed to be? Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word "aptitude" is misleading, because it implies something innate. The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes.
+那你真正的工作应该是什么呢？你的第一项任务就是搞清楚，除非你是莫扎特。可以着手的伟大的事情有哪些？富有想象力的人在哪里？以及最重要的，你感兴趣的是什么？“天赋”这个词在误导
 
 A distorted version of this idea has filtered into popular culture under the name "passion." I recently saw an ad for waiters saying they wanted people with a "passion for service." The real thing is not something one could have for waiting on tables. And passion is a bad word for it. A better name would be curiosity.
 
