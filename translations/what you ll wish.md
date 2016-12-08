@@ -186,56 +186,70 @@ Curiosity
 
 And what's your real job supposed to be? Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word "aptitude" is misleading, because it implies something innate. The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes.
 
-那你真正的工作应该是什么呢？只要你不是莫扎特，就应该先去搞清楚。有哪些伟大的工作可以动手开始？哪里能找到富有想象力的人？以及最重要的，你对什么感兴趣？“天赋”这个词对人是一种误导，因为它暗示你有些能力是天生的。最强大的一类天赋，就是对钻研某些问题具有强烈兴趣，而这种兴趣往往是后天形成的。
+那你真正的工作应该是什么呢？既然你不是莫扎特，就应该先去搞清楚。有哪些问题非常值得解决？在哪里能找到富有想象力的人？以及最重要的，你对什么感兴趣？“天赋”这个词对人是一种误导，因为它暗示你有些能力是天生的。最强大的一类天赋，就是对钻研某些问题具有强烈兴趣，而这种兴趣往往是后天形成的。
 
 A distorted version of this idea has filtered into popular culture under the name "passion." I recently saw an ad for waiters saying they wanted people with a "passion for service." The real thing is not something one could have for waiting on tables. And passion is a bad word for it. A better name would be curiosity.
 
-在流行文化中，这种理念常常被误解为“激情”。我最近看到一个招服务员的广告，说它们需要“热爱服务行业”的人。没有人会热爱端盘子。用“激情”来形容。用“好奇”可能更好一点。
+不过在流行文化中，这种说法被人扭曲成了所谓的“激情”。我最近看到一个广告招服务员，上面说需要“热爱服务行业”的人。端盘子不是一件值得热爱的事情，用“激情”来形容就更不对了。用“好奇”还差不多。
 
 Kids are curious, but the curiosity I mean has a different shape from kid curiosity. Kid curiosity is broad and shallow; they ask why at random about everything. In most adults this curiosity dries up entirely. It has to: you can't get anything done if you're always asking why about everything. But in ambitious adults, instead of drying up, curiosity becomes narrow and deep. The mud flat morphs into a well.
-儿童都有好奇心，但我说的好奇，跟儿童的好奇是有区别的。儿童的好奇心广而浅；他们对所有的事物随机提问。对于大多数成年人，这种好奇心完全干涸了。这是必然的：如果凡事都要问个为什么，你最后什么事也做不成。但那些胸有大志的成年人，相比干涸，好奇心变得窄而深。海边的淤泥变成了一口井。
+
+小朋友都有好奇心，但我说的好奇，跟小朋友的好奇是有区别的。小朋友的好奇心广而浅；他们会对一切事物随机提问。大多数成年人的这种好奇心完全干涸了。这是必然的，如果一个人凡事都要问个为什么，那他最后什么事也做不成。但那些胸有大志的成年人，他们的好奇心不会干涸，而是变得窄而深。海边的淤泥变成了一口井。
 
 Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.
-好奇心把工作变成娱乐。对爱因斯坦来说，相对论不是【一本为了考试而学的充满困难内容的书】。那是他想要解开的一个谜团。与今天在教室里学它的人相比，发明相对论对他来说可能要轻松得多。
+
+好奇心让工作变成娱乐。对爱因斯坦来说，相对论并不是【一本为了考试而学的充满困难内容的书】。那是他想要解开的一个谜团。他当年发明相对论，估计比今天很多人在课堂上学习相对论还要轻松得多。
 
 One of the most dangerous illusions you get from school is the idea that doing great things requires a lot of discipline. Most subjects are taught in such a boring way that it's only by discipline that you can flog yourself through them. So I was surprised when, early in college, I read a quote by Wittgenstein saying that he had no self-discipline and had never been able to deny himself anything, not even a cup of coffee.
-你在学校里获得的最危险的幻觉之一，就是【想要做成大事，必须非常自律】。绝大多数课程的教学，都无聊到只有靠自律才能坚持下去。所以当时刚上大学的我很惊讶，因为我读到wittgenstein的一句名言，说【他从不自律，无法拒绝自己的任何欲望，哪怕是一杯咖啡】。
+
+你从学校获得的最危险的错觉之一，就是【想要成大事，必须先自律】。绝大多数课程的教学方式都无聊到只有靠自律才能坚持下去。所以我刚上大学的时候，读到维特根斯坦(译者注：著名哲学家)的一句话感到非常吃惊，他说他从来不自律，从不拒绝自己的任何欲望，哪怕是一杯咖啡。
 
 Now I know a number of people who do great work, and it's the same with all of them. They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in. One still hasn't sent out his half of the thank-you notes from his wedding, four years ago. Another has 26,000 emails in her inbox.
-如今我认识了很多做成大事的人，他们在这点上都是一样的。他们几乎没有自律。他们都是糟糕的拖延症患者，而且几乎无法完成任何他们不感兴趣的工作。比如有一个人，他自己的婚礼，他自己应该发的那部分感谢信，一直都没发，到现在已经四年了。另一个人，他的收件箱里有26,000封邮件。
+
+如今我认识了很多做成大事的人，他们都有一模一样的问题。他们根本没有自律。他们全都是拖延症晚期患者，而且几乎不会去做任何他们不感兴趣的工作。比如有一个人，他自己的婚礼，他应该发的那部分感谢信，到现在已经四年了都没发。还有一个人，她收件箱里有26,000封邮件。
 
 I'm not saying you can get away with zero self-discipline. You probably need about the amount you need to go running. I'm often reluctant to go running, but once I do, I enjoy it. And if I don't run for several days, I feel ill. It's the same with people who do great things. They know they'll feel bad if they don't work, and they have enough discipline to get themselves to their desks to start working. But once they get started, interest takes over, and discipline is no longer necessary.
-我可没有说你完全不需要自律。你的自律至少要能让你跑起来。我经常不是很愿意去跑步，但一旦跑起来，我还是挺享受的。如果一连几天都没跑步，我就浑身难受。那些做大事的人就是这样的。他们知道不工作就会浑身难受，而他们的自律刚好能让他们坐到桌前开始干活。然而只要干起来，兴趣就成了动力，自律就不再重要了。
+
+我不是说你完全不需要自律。你的自律至少要能让你坚持跑步。我经常抗拒跑步，但只要一跑起来，我就开始享受它。如果一连几天都没跑步，我就浑身难受。那些做大事的人就是这样的。他们一不工作就浑身难受，而他们的自律刚好能让他们坐到桌前开始干活。然而只要干起来，兴趣就成了动力，而不再需要自律了。
 
 Do you think Shakespeare was gritting his teeth and diligently trying to write Great Literature? Of course not. He was having fun. That's why he's so good.
-你以为莎士比亚是通过咬紧牙关和坚持不懈才最终写出伟大的文学作品吗？不可能的。他是在享受。而这就是他为什么写得这么好。
+
+你以为莎士比亚是通过咬紧牙关和坚持不懈才最终写出伟大的文学作品吗？当然不是。他是在享受过程。而这就是他写得这么好的原因。
 
 If you want to do good work, what you need is a great curiosity about a promising question. The critical moment for Einstein was when he looked at Maxwell's equations and said, what the hell is going on here?
-如果你想把一件事情做好，你需要对一个前途光明的问题保持强烈的好奇心。爱因斯坦的决定性时刻，是当他看着麦克斯韦方程说，这里究竟是怎么了？
+
+如果你想把一件事情做好，你需要对一个前途光明的问题保持强烈的好奇心。爱因斯坦的决定性时刻，就是当他看着麦克斯韦方程，说这里到底怎么了？
 
 It can take years to zero in on a productive question, because it can take years to figure out what a subject is really about. To take an extreme example, consider math. Most people think they hate math, but the boring stuff you do in school under the name "mathematics" is not at all like what mathematicians do.
-要找到一个值得解决的难题，往往需要很多年，因为光搞清楚一门学科究竟是干什么的，就要花很多年。举一个极端的例子，比如数学。你们中的很多人认为自己都不喜欢数学，但你们在学校里面以“数学”的名义学的那些无聊的东西，跟数学家的工作是完全不同的。
+
+要找到一个值得解决的难题，往往需要很多年，因为光是搞清楚一门学科究竟在研究什么，就要花很多年。一个极端的例子就是数学。你们中的很多人认为自己都不喜欢数学，然而你们在学校里面以“数学”的名义学的那些无聊的东西，其实跟数学家的工作是完全不同的。
 
 The great mathematician G. H. Hardy said he didn't like math in high school either. He only took it up because he was better at it than the other students. Only later did he realize math was interesting-- only later did he start to ask questions instead of merely answering them correctly.
-著名数学家哈迪说过，他也不喜欢高中里教的“数学”。他选择学数学，仅仅是因为他学得比其他人更好。直到后来他才发现数学其实挺有趣的——直到后来，他才开始去提出问题，而不仅仅是正确地回答问题。
+
+著名数学家哈迪说过，他也不喜欢高中里教的“数学”。他选择学数学，仅仅是因为他学得比其他人更好。直到后来他才发现数学其实挺有趣的——因为直到后来，他才开始去提出问题，而不仅仅是正确地回答问题。
 
 When a friend of mine used to grumble because he had to write a paper for school, his mother would tell him: find a way to make it interesting. That's what you need to do: find a question that makes the world interesting. People who do great things look at the same world everyone else does, but notice some odd detail that's compellingly mysterious.
-我曾经有一个朋友，当他因为要写文章交作业而抱怨的时候，他母亲就会跟他说：想办法把这件事情变得有趣。这就是你们应该做的：找到一个让世界变得有趣的问题。那些伟大的人跟其他人面对的是同一个世界，但他们能发现那些引人入胜的微妙细节。
+
+我有一个朋友，当年他一边写课程报告一边发牢骚的时候，他的母亲会跟他说：想办法让这件事情有趣一点。这就是你们应该做的：找一个让世界有趣一点的问题。那些成绩斐然的人跟普通人面对的是同一个世界，但他们能发现那些引人入胜的微妙细节。
 
 And not only in intellectual matters. Henry Ford's great question was, why do cars have to be a luxury item? What would happen if you treated them as a commodity? Franz Beckenbauer's was, in effect, why does everyone have to stay in his position? Why can't defenders score goals too?
-而且这并不局限于脑力活动。亨利·福特提出的伟大问题是，为什么汽车非得是奢侈品呢？如果把它看成日常用品会怎样？同样地，弗朗茨·贝肯鲍尔提出的是，为什么每个人都得待在自己的位置？为什么后卫就不能进球呢？
+
+而且这并不限于智力活动。亨利·福特提出的伟大问题是，为什么汽车非得是奢侈品呢？如果把它们当成日常用品会怎样？同样地，弗朗茨·贝肯鲍尔提出的是，为什么每个人都得守在自己的位置？为什么后卫就不能进球呢？
 
 Now
-现在
+那么
 
 If it takes years to articulate great questions, what do you do now, at sixteen? Work toward finding one. Great questions don't appear suddenly. They gradually congeal in your head. And what makes them congeal is experience. So the way to find great questions is not to search for them-- not to wander about thinking, what great discovery shall I make? You can't answer that; if you could, you'd have made it.
-如果明确一个伟大的问题要花很多年，那么现在，十六岁的你们要做些什么呢？为找到这个问题做准备。伟大的问题不会突然出现。它们在你的脑海中慢慢凝聚。使得它们凝聚的，是经验。因此寻找伟大问题的最佳方式，不是去寻找——不是望着天空瞎想，我应该实现什么伟大发明？你回答不了这个问题；如果能回答，那你已经实现了。
+
+如果明确一个伟大的问题要花很多年，那么现在，十六岁的你们要做些什么呢？想办法找一个。伟大的问题不会突然出现。它们在你的脑海中逐渐凝聚。促使它们凝聚的，是经验。因此寻找伟大问题的最佳方式，不是去寻找——不是望着天空瞎想，我应该实现什么伟大发明？你回答不了这个问题；如果你能，那你已经实现了。
 
 The way to get a big idea to appear in your head is not to hunt for big ideas, but to put in a lot of time on work that interests you, and in the process keep your mind open enough that a big idea can take roost. Einstein, Ford, and Beckenbauer all used this recipe. They all knew their work like a piano player knows the keys. So when something seemed amiss to them, they had the confidence to notice it.
-要让一个伟大的想法在你的脑海中出现，正确方式不是去寻找伟大的想法，而是多把时间花在那些让你感兴趣的工作上，并在这个过程中保持你的心胸足够宽容，好让伟大的想法能够栖息其中。爱因斯坦、福特和贝肯鲍尔都是这么做的。他们对自己工作的熟悉，如同钢琴家对琴键的熟悉。因此当他们觉得事情不对头的时候，他们有足够的信心去关注它。
+
+要让一个伟大的想法在你的脑海中出现，正确方式不是去寻找伟大的想法，而是多花时间在那些让你感兴趣的工作上，并在这个过程中保持你的心胸足够宽容，好让伟大的想法能够栖息其中。爱因斯坦、福特和贝肯鲍尔都是这么做的。他们像钢琴家熟悉琴键一样熟悉自己的工作。因此当他们感觉事有蹊跷的时候，他们可以相信自己的直觉。
 
 Put in time how and on what? Just pick a project that seems interesting: to master some chunk of material, or to make something, or to answer some question. Choose a project that will take less than a month, and make it something you have the means to finish. Do something hard enough to stretch you, but only just, especially at first. If you're deciding between two projects, choose whichever seems most fun. If one blows up in your face, start another. Repeat till, like an internal combustion engine, the process becomes self-sustaining, and each project generates the next one. (This could take years.)
-花时间，怎么花，花到哪？随便找一个有趣的项目：读透某一本书，或者制作点什么，或者回答点什么问题。选一个能在一个月内完成的项目，并确保你拥有完成它的能力。做一些足够难、能够锻炼你的项目，刚好即可，尤其是最初的时候。如果要在两个项目中选一个，选择哪个看上去比较好玩的。如果一个项目搞砸了，就开始另一个。重复下去直到，像一台内燃机，燃烧过程变得能够自我维持，并且一个项目产生下一个。（这个过程会花上好几年）。
+
+花时间，怎么花，花到哪？随便找一个有趣的项目：读透某一本书，或者制作点什么，或者回答点什么问题。选一个能在一个月内完成的项目，并确保你拥有完成它的能力。做一些足够难、能够锻炼你的项目，刚好即可，尤其是最初的时候。如果要在两个项目中选一个，选择哪个看上去比较好玩的。如果一个项目搞砸了，就开始另一个。重复下去直到，像一台内燃机，燃烧过程变得能够自我维持，并且一个项目产生下一个。（这可能会花你好几年）。
 
 It may be just as well not to do a project "for school," if that will restrict you or make it seem like work. Involve your friends if you want, but not too many, and only if they're not flakes. Friends offer moral support (few startups are started by one person), but secrecy also has its advantages. There's something pleasing about a secret project. And you can take more risks, because no one will know if you fail.
 反过来，没必要做那些“为了学业”的项目，如果它会限制你，或者让它看上去像有意义的工作。可以跟你的朋友一起弄，但不要太多，而且他们不能是flakes。朋友能提供精神支持（很少有创业公司是由一个人创办的），但是保密也有它的优势。一个秘密项目有它的愉悦之处。同时你能够承担更大的风险，因为你失败之后没有人会知道。
