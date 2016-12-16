@@ -2,6 +2,11 @@ What you'll wish you'd known
 
 你将希望你一早知道的事儿
 
+- Author: Paul Graham
+- Traslated by: Qin Yongliang 覃永良
+- Original: <http://paulgraham.com/hs.htm>
+
+
 January 2005
 
 二零零五年一月
@@ -90,7 +95,7 @@ To a newly arrived undergraduate, all university departments look much the same.
 
 在刚入学的新生看来，大学里面所有的学院都差不多。教授们看上去个个都睿智无比，发表着外行看不懂的论文。问题是，一部分专业的论文让人看不懂是因为它们确实包含了高深的理论，但也有一部分专业的论文是故意写得让人看不懂，好假装他们在讨论很重要的问题。
 
-这听起来有点像阴谋论，然而著名的《社会文本》事件（“索卡事件”）早已证实了这一点。当时，由于怀疑文学批评家的论文大多数都是在故作深沉地胡扯，一名物理学家故意写了一篇从头到尾都在故作深沉胡扯的论文，然后投给一份文学理论期刊（即《社会文本》, Social Text），结果成功发表。
+这听起来有点像阴谋论，然而著名的《社会文本》事件（“索卡事件”）早已证实了这一点。当时一名物理学家（索卡，Sokal）怀疑文学批评领域的论文大多数都是在故作深沉地胡扯，于是故意写了一篇从头到尾都在故作深沉胡扯的论文，然后投给一份文学理论期刊（即《社会文本》, Social Text），结果成功发表。
 
 The best protection is always to be working on hard problems. Writing novels is hard. Reading novels isn't. Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, then it isn't hard enough. There has to be suspense.
 
@@ -256,52 +261,64 @@ It may be just as well not to do a project "for school," if that will restrict y
 换句话讲：不要“为了成绩”去做项目，假如那样会限制你，或者让你觉得像在干正事。可以叫上朋友一起弄，但别叫太多，尤其不能叫那些凑热闹的。朋友可以提供精神支持（很少有创业公司是一个人创办的），不过自己偷偷搞也没问题，一个秘密计划自有它值得享受之处。而且你可以冒更大的险，因为就算失败也没人知道。
 
 Don't worry if a project doesn't seem to be on the path to some goal you're supposed to have. Paths can bend a lot more than you think. So let the path grow out the project. The most important thing is to be excited about it, because it's by doing that you learn.
-如果一个项目看上去不像是在通往你预定的目标的路上，不要担心。路可能比你想象的更弯。所以让项目在路线上自由生长。最重要的是为之（项目）兴奋，因为动手才能让你学到东西。
+
+如果一个项目看上去离你的某个预定目标越来越远，先别急。路，有时就是比你想的要弯。不如就让项目沿着路自然生长吧。最重要的是享受这个过程，因为你是通过做的过程来学习的。
 
 Don't disregard unseemly motivations. One of the most powerful is the desire to be better than other people at something. Hardy said that's what got him started, and I think the only unusual thing about him is that he admitted it. Another powerful motivator is the desire to do, or know, things you're not supposed to. Closely related is the desire to do something audacious. Sixteen year olds aren't supposed to write novels. So if you try, anything you achieve is on the plus side of the ledger; if you fail utterly, you're doing no worse than expectations. [8]
-不要忽视那些（不得体的）动机。最强大的动机之一，就是希望在某些事情上比其他人更强。哈迪曾说这是他的最初动机，而我认为他唯一与众不同的地方，就是他承认了。另一个强大动机，是去做自己不应该做、或者了解自己不了解的东西。与此紧密相关的还有对【做大胆放肆之事】的渴望。16岁不是写小说的年龄。所以如果你尝试，你取得的任何成绩都是账上的盈余；如果你完全失败，你也没有比其他人更差。
+
+不要忽视内心的“不良”动机。希望在某些方面超过其他人，是最强大的动机之一。哈迪说这就是他选择数学的原因。我觉得他这个人唯一独特之处，就是乐于承认这一点。对了解、掌握自己所不应了解的未知事物的渴望，是另一种强大的动机。与此紧密相连的是对【放个大新闻】的渴望。16岁本来就不是写小说的年龄，所以如果你写了，获得的任何成就都是锦上添花；而就算你彻底失败，也并没有输给其他人。
 
 Beware of bad models. Especially when they excuse laziness. When I was in high school I used to write "existentialist" short stories like ones I'd seen by famous writers. My stories didn't have a lot of plot, but they were very deep. And they were less work to write than entertaining ones would have been. I should have known that was a danger sign. And in fact I found my stories pretty boring; what excited me was the idea of writing serious, intellectual stuff like the famous writers.
-当心坏榜样。尤其当他们为懒惰找借口时。我当年在高中的时候，我曾经模仿那些著名作家，写过一些“存在主义”的短篇故事。我的故事没有多少情节，但是意味很深邃。这些故事要比那些搞笑故事容易写得多。我当时并不知道这是个危险信号。而后来我发现我那些故事其实都很无聊；是那种像著名作家一样去写严肃、富含智慧的故事的想法，在背后推动我。
+
+对于坏榜样要提高警惕。尤其要小心那些方便你找借口偷懒的。我上高中的时候，就曾经模仿过当年那些著名作家，写过一些“存在主义”短篇。我的故事没有什么情节，但是意味很深邃，*而且比那些有趣的故事要好写得多。* 我当时并没有发现这是个危险的信号。后来我才意识到我写的文章全都很无聊；不过是那种模仿著名作家写严肃、深刻的文章的想法，在背后激励着我。
 
 Now I have enough experience to realize that those famous writers actually sucked. Plenty of famous people do; in the short term, the quality of one's work is only a small component of fame. I should have been less worried about doing something that seemed cool, and just done something I liked. That's the actual road to coolness anyway.
-直到有了足够多的经验，现在的我才搞明白：这些著名作家实际上都很烂。大多数名人都很烂；短期来看，一个人作品的质量，仅仅是他名气的一小部分。当年的我真不应该去做很酷的事，而应该做我真正喜欢的事情。毕竟这才是真正通向酷炫的路。
+
+现在我经验丰富了，知道这些所谓著名作家，其实都是吹出来的。很多名人都是吹出来的；正红的时候，作品的质量不过是他名气的一小部分罢了。我当年不应该那么关心如何装逼，而应该做我真正喜欢的事情。把自己喜欢的事情做到极致，不也一样可以装逼吗？
 
 A key ingredient in many projects, almost a project on its own, is to find good books. Most books are bad. Nearly all textbooks are bad. [9] So don't assume a subject is to be learned from whatever book on it happens to be closest. You have to search actively for the tiny number of good books.
-大多数项目的一个关键组成部分——甚至本身就可以算一个项目的——是去找好书。大多数书都写得不好。几乎所有的课本都写的不好。所以不要觉得一个科目，一定要从离你最近的那本书中去学。你必须主动寻找那些为数不多的好书。
+
+大多数项目的关键——甚至本身就可以当做一个项目——是找到好的书。大多数书都写的不好，课本则几乎没有一本写得好的。所以不要觉得随手拿一本离你最近的书就能学好一个主题。你必须主动寻找那些数量稀少的好书。
 
 The important thing is to get out there and do stuff. Instead of waiting to be taught, go out and learn.
-记住，要动起来，做实事。不要等别人来教你，要在做事的过程中学习。
+
+记住，要动起来，做点实事。不要等别人来教你，要在主动地学习。
 
 Your life doesn't have to be shaped by admissions officers. It could be shaped by your own curiosity. It is for all ambitious adults. And you don't have to wait to start. In fact, you don't have to wait to be an adult. There's no switch inside you that magically flips when you turn a certain age or graduate from some institution. You start being an adult when you decide to take responsibility for your life. You can do that at any age. [10]
-没必要让招生办公室将你的生活定型。你可以用你的好奇心去给它定型。所有志存高远的成年人都是这样的。而你现在就可以开始。实际上，你没必要等到成年。你的身体不会一到18岁或者大学一毕业就会发生什么神奇的变化。当你决定对你的人生负责的时候，你就开始成为成年人了。这对年龄是没有限制的。
+
+何必让招生办的人帮你塑造生活？你可以用你的好奇心塑造它。每个志存高远的成年人都是这么做的，而你现在就可以动手开始。说实话，你们根本没必要等待成人——你们的身体不会一到18岁，或者大学一毕业，就发生什么神奇的变化。当你决定对你的人生负责的时候，你就开始成为成年人了。这和年龄是没有关系的。
 
 This may sound like bullshit. I'm just a minor, you may think, I have no money, I have to live at home, I have to do what adults tell me all day long. Well, most adults labor under restrictions just as cumbersome, and they manage to get things done. If you think it's restrictive being a kid, imagine having kids.
-这话听着可能比较扯淡。我是个小孩，你可能会觉得，我没有钱，只能住在家里，大人让我做什么我就得一天到晚做什么……这个，其实大多数大人都是在这样累赘般的限制下工作的，而同时还能想办法把事情做好。如果你觉得做小孩充满限制，想想带小孩吧。
+
+刚才这些话听着可能比较扯淡。你可能会觉得，我还未成年，一没有钱，二只能住在家里，大人让我做什么我就得一天到晚做什么。好吧，其实大多数成年人也是在差不多讨厌的各种限制条件下工作的，而他们会想方设法地把事情做好。如果你们觉得做小孩麻烦，想象一下带小孩有多麻烦吧。
 
 The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't. That realization hits most people around 23. But I'm letting you in on the secret early. So get to work. Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.
-高中生和成年人之间的唯一差别是，成年人明白他们必须把事情做好，而高中生不明白。大多数人会在23岁左右醒悟这一点。但我现在偷偷让你们提前入场。去做点实事吧！也许你们能成为，高中最后悔的事情不是浪费了多少时间，的第一代人。
 
-
+高中生和成年人的真正差别，是成年人知道他们必须得把事情做好，而高中生不知道。大多数人会在23岁左右明白这一点。然而我提前跟你们透露了这个秘密。去干点实事吧！也许你们会成为，高中最后悔的事情不是浪费了多少时间，的第一代人。
 
 
 Notes
 脚注
 
 [1] A doctor friend warns that even this can give an inaccurate picture. "Who knew how much time it would take up, how little autonomy one would have for endless years of training, and how unbelievably annoying it is to carry a beeper?"
-一个做医生的朋友警告我，就算这样也会获得不准确的印象。“谁知道，要学多长时间，接受多少年的培训之后才能得到多么微小的一点自由，以及随身带着传呼机到底有多难以置信地烦？”
+
+一个做医生的朋友提醒我，就算这样获得的印象也不一定是准确的。“你无法理解，要花多长时间，接受多少年的培训之后才能得到多么微小的一点自由，以及出门不离BP机到底有多TM地烦？”
 
 [2] His best bet would probably be to become dictator and intimidate the NBA into letting him play. So far the closest anyone has come is Secretary of Labor.
-他的最佳选择可能是先成为独裁者，然后威胁NBA以允许他参赛。目前最靠近这条路线的位置是劳动部部长。
+
+我认为他的最佳方案应该是先成为独裁者，然后威胁NBA让他参赛。截止目前为止，最接近这个方案的人是劳动部部长。
 
 [3] A day job is one you take to pay the bills so you can do what you really want, like play in a band, or invent relativity.
 
 Treating high school as a day job might actually make it easier for some students to get good grades. If you treat your classes as a game, you won't be demoralized if they seem pointless.
 
 However bad your classes, you need to get good grades in them to get into a decent college. And that is worth doing, because universities are where a lot of the clumps of smart people are these days.
+
 【正职】就是那份你用来填饱肚子的职业——然后你就可以做你真正想做的事情，比如成立乐队，或者发明相对论。
-实际上，把高中当成一份日职，反而会让一部分学生更容易获得好成绩——如果你能把你的课程当成游戏一场，你就不会因为他们看上去毫无意义而灰心了。
-不管你的科目有多无聊，你都必须在上面取得好成绩才能进入好的大学。而这是值得的，因为如今许多群聪明人都聚集在大学里。
+
+实际上，把高中当成一份正职，反而会让一部分学生更容易获得好成绩——如果你能把你的科目当成游戏一场，你就不会因为他们看上去毫无意义而丧失兴趣了。
+
+不管你的课程有多无聊，你都必须在取得好成绩才能进入好的大学。这是值得的，因为如今大量的聪明人都群聚在大学里。
 
 [4] The second biggest regret was caring so much about unimportant things. And especially about what other people thought of them.
 
@@ -310,12 +327,14 @@ I think what they really mean, in the latter case, is caring what random people 
 I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me. The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.
 
 第二后悔的事情，是过于关心那些并不重要的事情。尤其是关心别人对他们的看法。
-我觉得他们后半句真正想说的是，过于关心一般人对他们的看法。成年人同样会关心其他人的看法，但他们知道要对“其他人”有所选择。
-我身边大概三十个朋友的意见是我比较关心的，剩下整个世界对我基本没有影响。高中的问题就在于，你的同学是根据年龄和户口筛选的，而不是根据你对他们观点的尊重。
+
+我觉得他们后半句真正想说的是，过于关心一般人对他们的看法。成年人同样会关心他人的看法，但他们知道要对“他人”有所选择。
+
+我身边大概有三十个朋友的意见是我比较关心的，剩下的整个世界对我基本没有影响。高中的问题关键就在于，你的同学是根据年龄和户口筛选的，而不是根据你对他们观点的尊重。
 
 [5] The key to wasting time is distraction. Without distractions it's too obvious to your brain that you're not doing anything with it, and you start to feel uncomfortable. If you want to measure how dependent you've become on distractions, try this experiment: set aside a chunk of time on a weekend and sit alone and think. You can have a notebook to write your thoughts down in, but nothing else: no friends, TV, music, phone, IM, email, Web, games, books, newspapers, or magazines. Within an hour most people will feel a strong craving for distraction.
 
-浪费时间的关键在于分心。没有东西让你分心的时候，你的大脑马上就能感觉到你在闲置它，而让你感到局促不安。如果你想知道有多少事情能让你分心，可以做一下这个实验：找个周末，抽一段时间用来静坐。你可以用笔记本记录你的想法，但仅此而已：没有朋友，电视，音乐，手机，微信，邮件，网页，游戏，书，报纸，或者杂志。大多数人在一个小时内就会开始对分心之物产生强烈的需求。
+浪费时间的关键在于分心。没有东西让你分心的时候，你的大脑马上就能感觉到它被闲置，而让你感到局促不安。如果你想知道有多少事情能让你分心，可以做一下这个实验：找个周末，抽一段时间用来静坐。你可以用笔记本记录你的想法，但仅此而已：没有朋友，电视，音乐，手机，微信，邮件，网页，游戏，书，报纸，或者杂志。大多数人在一个小时内就会开始对分心之物产生强烈的需求。
 
 [6] I don't mean to imply that the only function of prep schools is to trick admissions officers. They also generally provide a better education. But try this thought experiment: suppose prep schools supplied the same superior education but had a tiny (.001) negative effect on college admissions. How many parents would still send their kids to them?
 
@@ -323,26 +342,38 @@ I have about thirty friends whose opinions I care about, and the opinion of the 
 
 It might also be argued that kids who went to prep schools, because they've learned more, are better college candidates. But this seems empirically false. What you learn in even the best high school is rounding error compared to what you learn in college. Public school kids arrive at college with a slight disadvantage, but they start to pull ahead in the sophomore year.
 
-可能有人会说，那些预科学校的学生学得更多，所以成为了更好的招生候选人。但从经验来看不是这样的。就算读最好的高中，你能学到的东西，连大学知识的一个零头都算不上。公立学校的学生刚入学会有一点微小的差距，但从大二开始他们就领先了。
+可能有人会说，那些预科学校的学生学得更多，所以成为了更好的大学申请人。但从经验来看不是这样的。就算读的是最好的高中，你能学到的东西，连大学知识的一个零头都算不上。公立学校的学生刚入学会有一点微小的差距，但从大二开始他们就领先了。
 
 (I'm not saying public school kids are smarter than preppies, just that they are within any given college. That follows necessarily if you agree prep schools improve kids' admissions prospects.)
 
-（我不是说公立学校的学生比预科生聪明，只是说在任何一所大学里是的。如果你认同预备学校能提升入学机会，这就不难理解了。）
+（我不是说公立学校的学生比预科生聪明，我是说在所有的大学里都是这样。既然预科学校的作用是提升入学成功率，出现这种现象就不难理解了。）
 
 [7] Why does society foul you? Indifference, mainly. There are simply no outside forces pushing high school to be good. The air traffic control system works because planes would crash otherwise. Businesses have to deliver because otherwise competitors would take their customers. But no planes crash if your school sucks, and it has no competitors. High school isn't evil; it's random; but random is pretty bad.
 
-为什么社会要对你犯规？主要是因为无所谓。根本没有任何外部动力去推动学校进步。空中交通管制系统要正常工作，因为不正常就会死人。各行各业必须按时交付，不然竞争者就会带走客户。但你的学校不管多烂，都不会死人，也没有竞争者。高中并不是恶意迫害；它只是一切随缘；但一切随缘其实很不好。
+为什么社会要对你犯规？主要是因为无所谓。就根本没有任何外部力量去推动高中提高教学水平。空中交通管制系统必须正常工作，因为不正常就会出人命。各行各业必须按时交付，不然竞争者就会带走客户。但你的学校不管多烂，都不会出人命，也没有竞争者。总之高中并不是故意伤害；它只是任你自生自灭；但自生自灭其实挺惨的。
 
 [8] And then of course there is money. It's not a big factor in high school, because you can't do much that anyone wants. But a lot of great things were created mainly to make money. Samuel Johnson said "no man but a blockhead ever wrote except for money." (Many hope he was exaggerating.)
-还有一个就是钱。这在高中不是主要因素，因为你cant't do much that anyone wants.（译者注：这段实在是翻译不了。）但很多伟大的作品都是以赚钱为主要目的而创作的。用萨缪尔·约翰逊的话说，“不以赚钱为目的的写作都是神经病”（很多人宁愿相信他是在夸张）。
+
+还有一个就是钱。这在高中不是主要因素，反正你也写不出什么能赚钱的东西。但很多伟大的作品都是以赚钱为主要目的而创作的。用萨缪尔·约翰逊的话说，“不以赚钱为目的的写作都是耍流氓”（很多人宁愿相信他是故意夸张）。
 
 [9] Even college textbooks are bad. When you get to college, you'll find that (with a few stellar exceptions) the textbooks are not written by the leading scholars in the field they describe. Writing college textbooks is unpleasant work, done mostly by people who need the money. It's unpleasant because the publishers exert so much control, and there are few things worse than close supervision by someone who doesn't understand what you're doing. This phenomenon is apparently even worse in the production of high school textbooks.
-大学的教材也很糟糕。当你进到大学的时候，你会发现教科书（个别神作除外）并不是由具体领域内的顶尖学者撰写的。写大学教材是很不爽的工作，通常是由那些需要钱的人写的。不爽是因为出版社施加太多控制，没有什么能比让一帮不明白你在干嘛的人来监督你更糟糕了。这个现象在高中教材的制作过程中更突出。
+
+大学的教材也很糟糕。当你进到大学的时候，你会发现教科书（个别神作除外）并不是由具体领域内的顶尖学者撰写的。写大学教材是份很不爽的工作，通常是由那些需要赚这个钱的人完成的。不爽是因为出版社施加太多限制，有什么能比让一帮不明白你在干嘛的人监督你更糟糕呢？这个现象在高中教材的制作过程中就更加突出了。
 
 [10] Your teachers are always telling you to behave like adults. I wonder if they'd like it if you did. You may be loud and disorganized, but you're very docile compared to adults. If you actually started acting like adults, it would be just as if a bunch of adults had been transposed into your bodies. Imagine the reaction of an FBI agent or taxi driver or reporter to being told they had to ask permission to go the bathroom, and only one person could go at a time. To say nothing of the things you're taught. If a bunch of actual adults suddenly found themselves trapped in high school, the first thing they'd do is form a union and renegotiate all the rules with the administration.
 
-你们的老师总是跟你们说要表现得像个大人。我不觉得他们真的希望你照做。也许你很吵很闹，但实际上你比大人乖多了。如果你们真的开始表现得像大人，那就大概跟一群大人被转换到你们的身体里差不多。想象一下一位民警、的士司机或者记者会有什么反应，当他们听说上厕所前必须打报告，而且一次只能去一个人。对教学内容不能发表任何意见。如果一群大人突然发现自己被困在高中里，他们第一件事就是组织工会，然后跟校方重新协商所有规定。
+你们的老师总是要求你们表现得像个大人。我觉得他们未必真的这么想。也许你很吵很闹，但实际上你比大人乖多了。如果你们表现得像真正的大人，那就等于把一群大人转换到你们的身体里。想象一下，如果一名警察、一位的士司机或者一个记者，听说上厕所之前必须打报告，而且一次只能去一个人，对教学内容不能发表任何意见，会有什么反应。如果一群大人突然发现自己被困在高中里，他们会干的第一件事就是组织工会，然后跟校方针对所有校规进行重新谈判。
 
 Thanks to Ingrid Bassett, Trevor Blackwell, Rich Draves, Dan Giffin, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, Mark Nitzberg, Lisa Randall, and Aaron Swartz for reading drafts of this, and to many others for talking to me about high school.
 
-感谢帮我读这篇文章的草稿的我的妻子，朋友，伙伴们，以及其他许多跟我交流高中生活的人。
+感谢帮我阅读这篇文章的草稿的我的妻子，朋友，伙伴们，以及其他许多跟我交流高中生活的人。
+
+----
+
+译者注
+
+这是我翻译过的最长，也是最难翻译的一篇文章。演讲稿中混杂了大量口语表达，要实现信达雅就几乎没有一句话可以直译。
+
+这次相当于一个人当了翻译、润色和校对。
+
+希望大家喜欢。
