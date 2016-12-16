@@ -249,10 +249,11 @@ The way to get a big idea to appear in your head is not to hunt for big ideas, b
 
 Put in time how and on what? Just pick a project that seems interesting: to master some chunk of material, or to make something, or to answer some question. Choose a project that will take less than a month, and make it something you have the means to finish. Do something hard enough to stretch you, but only just, especially at first. If you're deciding between two projects, choose whichever seems most fun. If one blows up in your face, start another. Repeat till, like an internal combustion engine, the process becomes self-sustaining, and each project generates the next one. (This could take years.)
 
-花时间，怎么花，花到哪？随便找一个有趣的项目：读透某一本书，或者制作点什么，或者回答点什么问题。选一个能在一个月内完成的项目，并确保你拥有完成它的能力。做一些足够难、能够锻炼你的项目，刚好即可，尤其是最初的时候。如果要在两个项目中选一个，选择哪个看上去比较好玩的。如果一个项目搞砸了，就开始另一个。重复下去直到，像一台内燃机，燃烧过程变得能够自我维持，并且一个项目产生下一个。（这可能会花你好几年）。
+花时间，怎么花，花到哪？随便找一个有趣的项目：读透某一本书，或者制作点什么，或者回答点什么问题。选一个能在一个月内完成的项目，并确保你拥有完成它的能力。做一些足够难、能够锻炼你的项目，但不要太难，尤其是刚开始的时候。如果要在两个项目中选一个，选那个看上去比较好玩的。如果一个项目做砸了，就去做另一个。这样重复下去，直到你变成一台能保持运转的发动机，让每一个项目催生下一个。（这过程要花上好几年。）
 
 It may be just as well not to do a project "for school," if that will restrict you or make it seem like work. Involve your friends if you want, but not too many, and only if they're not flakes. Friends offer moral support (few startups are started by one person), but secrecy also has its advantages. There's something pleasing about a secret project. And you can take more risks, because no one will know if you fail.
-反过来，没必要做那些“为了学业”的项目，如果它会限制你，或者让它看上去像有意义的工作。可以跟你的朋友一起弄，但不要太多，而且他们不能是flakes。朋友能提供精神支持（很少有创业公司是由一个人创办的），但是保密也有它的优势。一个秘密项目有它的愉悦之处。同时你能够承担更大的风险，因为你失败之后没有人会知道。
+
+换句话讲：不要“为了成绩”去做项目，假如那样会限制你，或者让你觉得像在干正事。可以叫上朋友一起弄，但别叫太多，尤其不能叫那些凑热闹的。朋友可以提供精神支持（很少有创业公司是一个人创办的），不过自己偷偷搞也没问题，一个秘密计划自有它值得享受之处。而且你可以冒更大的险，因为就算失败也没人知道。
 
 Don't worry if a project doesn't seem to be on the path to some goal you're supposed to have. Paths can bend a lot more than you think. So let the path grow out the project. The most important thing is to be excited about it, because it's by doing that you learn.
 如果一个项目看上去不像是在通往你预定的目标的路上，不要担心。路可能比你想象的更弯。所以让项目在路线上自由生长。最重要的是为之（项目）兴奋，因为动手才能让你学到东西。
