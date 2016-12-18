@@ -41,7 +41,7 @@ And yet every May, speakers all over the country fire up the Standard Graduation
 
 What they really mean is, don't get demoralized. Don't think that you can't do what other people can. And I agree you shouldn't underestimate your potential. People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius. In fact I suspect if you had the sixteen year old Shakespeare or Einstein in school with you, they'd seem impressive, but not totally unlike your other friends.
 
-他们真正想表达的是：不要丧失斗志。别人能做到的，你们不要怕做不到。我也确实认为，你们不应该低估自己的潜力。那些成就非凡的人看上去总是与众不同，而绝大多数的人物传记都在放大这种幻觉，一方面是因为传记作者改不掉的崇拜口吻，一方面是因为在故事结局已定的情况下，他们忍不住要提炼剧情，直到主人公的人生看上去就像命运的必然，天赋异禀、灵光一现。其实我相信，如果16岁的莎士比亚或者爱因斯坦跟你们一起上学，他们的表现可能很出色，但不至于跟你们有什么特殊的区别。
+他们真正想表达的是：不要丧失斗志。别人能做到的，你们不要怕做不到。我也确实认为，你们不应该低估自己的潜力。那些成就非凡的人看上去总是与众不同，而绝大多数的人物传记都在放大这种幻觉，一方面是因为传记作者戒不掉的崇拜口吻，一方面是因为在故事结局已定的情况下，他们忍不住要提炼剧情，直到主人公的人生看上去就像命运的必然、天赋异禀、灵光一现。其实我相信，如果16岁的莎士比亚或者爱因斯坦跟你们一起上学，他们的表现可能很出色，但不至于跟你们有什么特殊的区别。
 
 Which is an uncomfortable thought. If they were just like us, then they had to work very hard to do what they did. And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.
 
@@ -53,11 +53,11 @@ I'm not saying there's no such thing as genius. But if you're trying to choose b
 
 So far we've cut the Standard Graduation Speech down from "don't give up on your dreams" to "what someone else can do, you can do." But it needs to be cut still further. There is some variation in natural ability. Most people overestimate its role, but it does exist. If I were talking to a guy four feet tall whose ambition was to play in the NBA, I'd feel pretty stupid saying, you can do anything if you really try. [2]
 
-目前为止，我们已经把《标准毕业演讲》从“不要放弃你们的梦想”，缩短到了“别人行，你就行”。但它还可以再简洁一点。每个人的自然能力是有一点区别的，虽然大部分人高估了它的影响，但它仍然是存在的。假如一个一米五的人告诉我他的梦想是加入NBA，跟他说“功夫不负有心人”只会让我觉得自己很蠢。[2]
+目前为止，我们已经把《标准毕业演讲》从“不要放弃你们的梦想”，缩短到了“别人行，你就行”。但它还可以再简洁一点。每个人的自然能力是有一点区别的，虽然大部分人高估了它的影响，但它仍然是存在的。假如一个一米五的人告诉我他的梦想是加入NBA，跟他说“功夫不负有心人”只会让我觉得自己很傻。[2]
 
 We need to cut the Standard Graduation Speech down to, "what someone else with your abilities can do, you can do; and don't underestimate your abilities." But as so often happens, the closer you get to the truth, the messier your sentence gets. We've taken a nice, neat (but wrong) slogan, and churned it up like a mud puddle. It doesn't make a very good speech anymore. But worse still, it doesn't tell you what to do anymore. Someone with your abilities? What are your abilities?
 
-所以我们得把《标准毕业演讲》缩短成：“跟你能力相同的人行，你就行；同时不要低估自己的能力。”唉，很多时候都是这样，越接近事实真相，描述就越复杂。最后我们把一条简洁、响亮（但有错）的口号，搅成了一坨泥巴，再也没法把演讲带入高潮了。最关键的是，它再也不能指导你的行动了。跟你们能力相同的人？你们的“能力”都有哪些？
+所以我们得把《标准毕业演讲》缩短成：“跟你能力相同的人行，你就行；同时不要低估自己的能力。”唉，很多时候都是这样，越接近事实真相，描述就越复杂。本来一条简洁、响亮（但有错）的口号，现在被我们搅成了一坨泥巴，再也不能把演讲带入高潮了。最关键的是，它再也不能指导你的行动了。跟你们能力相同的人？你们的“能力”都有哪些？
 
 Upwind
 
@@ -131,11 +131,11 @@ If I had to go through high school again, I'd treat it like a day job. I don't m
 
 When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time. If you're wondering what you're doing now that you'll regret most later, that's probably it. [4]
 
-当我问其他人对于高中最后悔是什么，他们几乎都给出了一样的答案：浪费了太多时间。如果你想知道将来你最后悔的事情是什么，答案估计就是这个。[4]
+当我问其他人对于高中最后悔的是什么，他们几乎都给出了一样的答案：浪费了太多时间。如果你想知道将来你最后悔的事情是什么，答案估计就是这个。[4]
 
 Some people say this is inevitable-- that high school students aren't capable of getting anything done yet. But I don't think this is true. And the proof is that you're bored. You probably weren't bored when you were eight. When you're eight it's called "playing" instead of "hanging out," but it's the same thing. And when I was eight, I was rarely bored. Give me a back yard and a few other kids and I could play all day.
 
-有人说这是难免的——毕竟高中阶段的学生尚不具备从事任何真正工作的能力。但我觉得这是错的，证据就是各位每天都很无聊。你们上小学的时候是不会无聊的。你们上小学的时候会说“出去玩”而不会说“出去嗨”虽然说的是同一件事。我上小学的时候绝对不会无聊。给我一个院子加几个小朋友，我可以玩一整天。
+有人说这是难免的——毕竟高中阶段的学生尚不具备从事任何真正工作的能力。但我觉得这是错的，证据就是各位每天都很无聊。你们上小学的时候是不会无聊的。你们上小学的时候会说“出去玩”而不会说“出去嗨”，虽然说的是同一件事。我上小学的时候绝对不会无聊。给我一个院子加几个小朋友，我可以玩一整天。
 
 The reason this got stale in middle school and high school, I now realize, is that I was ready for something else. Childhood was getting old.
 
@@ -155,7 +155,9 @@ Corruption
 
 It's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience. At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are. The mere existence of prep schools is proof of that.
 
-围绕大学录取来安排你的人生是有风险的，因为那些通过欣赏你的表演来决定是否录取你的人，眼光其实都一般般。在绝大多数大学，决定是否录取你的人并不是教授，而是招生办的工作人员，而后者远没有前者聪明。他们是知识界的NCO（译者注：士官，字面为“非委任军官”）。他们分辨不出你究竟有多聪明。各种预科学校的存在就是最好的证据。
+围绕大学录取来安排你的人生是有风险的，因为那些通过欣赏你的表演来决定是否录取你的人，眼光其实都不怎么样。在绝大多数大学，决定是否录取你的人并不是教授，而是招生办的工作人员，而他们远没有前者聪明。他们是知识界的NCO。他们分辨不出你究竟有多聪明，各种预科学校的存在就是最好的证据。
+
+（译者注：NCO即（美军）士官，Non-Commisional Officer，字面意思为“非委任军官”，此处被作者用于贬义，即“他们根本不算知识分子”之意。）
 
 Few parents would pay so much for their kids to go to a school that didn't improve their admissions prospects. Prep schools openly say this is one of their aims. But what that means, if you stop to think about it, is that they can hack the admissions process: that they can take the very same kid and make him seem a more appealing candidate than he would if he went to the local public school. [6]
 
@@ -244,6 +246,7 @@ And not only in intellectual matters. Henry Ford's great question was, why do ca
 而且并不是只有学术领域才能这样。亨利·福特提出的伟大问题是，为什么汽车非得是奢侈品呢？如果把它们当成日常用品会怎样？弗朗茨·贝肯鲍尔提出的是，为什么每个人都得守在自己的位置？为什么后卫就不能进球呢？
 
 Now
+
 当下
 
 If it takes years to articulate great questions, what do you do now, at sixteen? Work toward finding one. Great questions don't appear suddenly. They gradually congeal in your head. And what makes them congeal is experience. So the way to find great questions is not to search for them-- not to wander about thinking, what great discovery shall I make? You can't answer that; if you could, you'd have made it.
@@ -304,11 +307,11 @@ Notes
 
 [1] A doctor friend warns that even this can give an inaccurate picture. "Who knew how much time it would take up, how little autonomy one would have for endless years of training, and how unbelievably annoying it is to carry a beeper?"
 
-一个做医生的朋友提醒我，就算这样获得的印象也不一定是准确的。“你无法理解，要花多长时间，接受多少年的培训之后才能得到多么微小的一点自由，以及出门不离BP机到底有多TM地烦？”
+一个做医生的朋友提醒我，就算这样获得的印象也不一定是准确的。“你无法理解，要花多长时间，接受多少年的培训之后才能得到多么微小的一点自由，以及24小时不能关机到底有多TM烦？”
 
 [2] His best bet would probably be to become dictator and intimidate the NBA into letting him play. So far the closest anyone has come is Secretary of Labor.
 
-我认为他的最佳方案应该是先成为独裁者，然后威胁NBA让他参赛。截止目前为止，最接近这个方案的人是劳动部部长。
+我认为他的最佳方案应该是先成为独裁者，然后威胁NBA让他参赛。截止目前为止，最接近这个方案的人当上了劳动部部长。
 
 [3] A day job is one you take to pay the bills so you can do what you really want, like play in a band, or invent relativity.
 
